@@ -1,1 +1,1 @@
-python es peor que java
+Curso de programacion
