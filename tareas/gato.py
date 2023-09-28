@@ -24,7 +24,7 @@ class Gato:
                     disponibles.add(str(i+1)+letra)
         return disponibles
         
-    def es_posicion(self, a):
+    def casilla_vacia(self, a):
         '''Revisa si la posición a se puede seleccionar, regresa un booleano
         '''
         return len(a) == 2 and a[0] in ['1', '2', '3'] and a[1] in ['A','B','C'] and a in self.casillas_disponibles()
