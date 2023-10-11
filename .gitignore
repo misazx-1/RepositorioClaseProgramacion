@@ -1,3 +1,5 @@
 env/
 libretas/__pycache__
 tareas/__pycache__
+tareas/.ipynb_checkpoints
+libretas/.ipynb_checkpoints
